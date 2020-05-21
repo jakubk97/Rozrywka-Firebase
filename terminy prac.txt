@@ -1,0 +1,7 @@
+02.04.2020 - rozpoczęcie prac - planowanie aplikacji od podstaw
+09.04.2020 - rozpoznanie narzędzia firebase dla android + kotlin
+16.04.2020 - zaplanowanie struktury bazy danych
+23.04.2020 - stworzenie aktywności w aplikacji - moduł logowania oraz rejestracji
+30.04.2020 - rozpoznanie API do pobierania oraz szukania filmów
+07.05.2020 - stworzenie struktur,interfejsów oraz obiektów potrzebnych do pokazania w aktywnościach 
+14.05.2020 - stworzenie funkcjonalności dodawania,usuwania oraz aktualizacji rekordów w bazie danych użytkownika
